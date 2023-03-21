@@ -18,7 +18,7 @@
 |     |  2016.03~2021.08   |  Sungkyunkwan Univ., <br> **B.S in Library and Information Science**    |  |
 | RESEARCH EXPERIENCE     |   2021.03~2021.07   |  Sungkyunkwan Univ., <br>Information & Intelligence System LAB, <br>**Undergraduate Intern** |  |
 | CLUB    |    2020.08~2021.06  |  TNT, Artifical Intelligence Club  | |
-|     |    2017.12~2018.11  |  President of Student Council for LIS(Library and Information Science)  | |
+|     |    2017.12~2018.11  |  **President** of Student Council for LIS(Library and Information Science)  | |
 
 
 <!--
