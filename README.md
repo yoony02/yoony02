@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-> 📝 Studying ML/DL and Recommendation, Especially interested in **Session-based/Sequential Recommendation** and **Long-tail Recommendation**.
-> 📫 How to reach me: yooonyblooming@gmail.com
-> For more detail information, please refer to my [CV]() or [LinkedIn](https://www.linkedin.com/in/yang-heeyoon-738836217)
-<br>
+> 📝 Studying ML/DL and Recommendation, Especially interested in **Session-based/Sequential Recommendation** and **Long-tail Recommendation**. <br>
+> 📫 How to reach me: yooonyblooming@gmail.com <br>
+> For more detail information, please refer to my [CV]() or [LinkedIn](https://www.linkedin.com/in/yang-heeyoon-738836217) <br>
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoony02) 
