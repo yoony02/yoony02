@@ -13,7 +13,7 @@
 --------------------------------
 |  TYPE    | TERM     |  DETAILS   |  CURRENT POSITION |
 | :----: | :----: | :----: | :----: |
-| EDUCATION    |  2021.08~ |  Sungkyunkwan Univ., <br> **M.S. Student in Artificial Intelligence**    | ✋ |
+| EDUCATION    |  2021.08~2023.08 |  Sungkyunkwan Univ., <br> **M.S. Student in Artificial Intelligence**    |  |
 |     |  2019.08~2019.12   |  Indiana Univ., <br> **Exchange Student in Luddy School of Informatics, Computing, and Engineering**    |  |      
 |     |  2016.03~2021.08   |  Sungkyunkwan Univ., <br> **B.S in Library and Information Science**    |  |
 | RESEARCH EXPERIENCE     |   2021.03~2021.07   |  Sungkyunkwan Univ., <br>Information & Intelligence System LAB, <br>**Undergraduate Intern** |  |
